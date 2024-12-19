@@ -1,3 +1,7 @@
+"""
+Authors: Hamza Gunes, Ferhat Koknar
+Created: 19/12/2024
+"""
 import sqlite3
 import pandas as pd
 import tkinter as tk
